@@ -47,7 +47,7 @@ metadata = Struct({
     "copyright": "Copyright (C) 2013 Jake Hartz",
     "description": "Options file generator for the LBN Electronic Bulletin Board",
     "license": "BSD-style two-clause license (LICENSE.txt)",
-    "url": "http://jhartz.github.com/"
+    "url": "http://jhartz.github.io/"
 })
 
 PLUGINS_LOCAL_BASE_DIR = "data"  # location of plugins.js and the plugins directory
